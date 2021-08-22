@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 笃信圣经长老会迦密山堂华语主日崇拜音响事工
 
-You can use the [editor on GitHub](https://github.com/jiangnanq/carmel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 一般流程
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. 提前30分钟到达
+2. 从二楼钥匙和签名册
+3. 从英文堂取直播器材
+4. 从中文堂办公室拿音响器材
 
-### Markdown
+### 开始准备
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiangnanq/carmel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 系统上电 （把钥匙转到enable位置，给台式机、音响台、灯光台通电）
+2. 接线
+- 直播盒子输出连接到便携式显示器
+- 台式机输出至直播盒子
+- 音响台输出到相机
+- 相机输出到直播盒子
