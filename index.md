@@ -2,10 +2,10 @@
 
 ### 值班表
 
-- 29-Aug: Jiazan, Jinyang, Binglian
-- 5-Sep: Wenming, Nanqing, Mingyi
-- 12-Sep: Jiazan, Jinyang, Binglian
-- 19-Sep: Wenming, Nanqing, Mingyi 
+- 29-Aug: 家赞, 今阳, Binglian
+- 5-Sep: 文明, 南清, 明逸
+- 12-Sep: 家赞， 今阳， Binglian
+- 19-Sep: 文明，南清， 明逸
 
 ### 准备器材 
 
@@ -84,8 +84,10 @@
 
 ### 关于台式机和播放软件
 
-还在研究中
+还在研究中 😅
 
 ### 关于灯光
+
+自己尝试 😁
 
 ![灯光台](/static/light1.jpg)
