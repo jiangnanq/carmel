@@ -52,7 +52,7 @@
 
 - 收拾器材并归还
 - 断掉所有电源
-- 关掉灯光
+- 关掉灯光、空调
 - 在本子上签字
 
 ### 关于直播盒子
@@ -84,7 +84,20 @@
 
 ### 关于台式机和播放软件
 
-还在研究中 😅
+OpenLP 简单用法
+
+1. 把需要的文件加入到左边的library
+
+![library](/static/library.png)
+
+2. 把文件加入到右上的service manager，并调整顺序
+
+![play](/static/play.png)
+
+3. 从service manager选择播放, go live 是放到投影仪上
+4. 在OpenLP configure里面调整投影仪，在Windows 设置里面设定多个显示器。
+
+![config][/static/openlp setting.png]
 
 ### 关于灯光
 
