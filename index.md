@@ -97,7 +97,7 @@ OpenLP 简单用法
 3. 从service manager选择播放, go live 是放到投影仪上
 4. 在OpenLP configure里面调整投影仪，在Windows 设置里面设定多个显示器。
 
-![config][/static/openlp setting.png]
+![config][/static/setting.png]
 
 ### 关于灯光
 
