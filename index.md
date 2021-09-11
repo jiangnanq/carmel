@@ -85,7 +85,7 @@
 
 ![音响台](/static/audio1.jpg)
 
-### 关于台式机和播放软件
+### 关于OpenLP
 
 OpenLP 简单用法
 
@@ -98,7 +98,8 @@ OpenLP 简单用法
 ![play](/static/play.png)
 
 3. 从service manager选择播放, go live 是放到投影仪上
-4. 在OpenLP configure里面调整投影仪，在Windows 设置里面设定多个显示器。
+4. 在OpenLP configure里面调整投影仪
+5. 在Windows 设置里面设定多个显示器，显示器设置1和3需要Mirror，如果不是，需要退出OpenLP重新设置好。 OpenLP 只识别打开时的状态。
 
 ![config](/static/setting.png)
 
