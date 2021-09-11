@@ -101,7 +101,6 @@ OpenLP 简单用法
 4. 在OpenLP configure里面调整投影仪
 5. 在Windows 设置里面设定多个显示器，显示器设置1和3需要Mirror，如果不是，需要退出OpenLP重新设置好。 OpenLP 只识别打开时的状态。
 
-![config](/static/setting.png)
 
 ### 关于灯光
 
