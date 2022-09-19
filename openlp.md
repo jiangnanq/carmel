@@ -1,6 +1,9 @@
 ## 关于OpenLP
 
+
 OpenLP 简单用法
+
+电脑口令： MC2020@
 
 1. 把需要的文件加入到左边的library
 
